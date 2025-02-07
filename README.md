@@ -1,4 +1,4 @@
-• Tech Stack & Testing: The Voting App is developed using Node.js, Express.js for the backend, and MongoDB as the database, with Postman utilized for API testing and validation.
-• User Functionality: Registered users can cast a vote for a single candidate, ensuring a one-vote-per-user policy to maintain election integrity.
-• Admin Features: The admin has full CRUD (Create, Read, Update, Delete) capabilities to manage candidates, allowing them to add new candidates, update details, and remove candidates as needed.
-• Data Structure & Security: The application is built with industry-standard coding practices, ensuring optimized performance and maintainability. Security measures such as user authentication(Bcrypt) and data validation(JWT) are implemented to protect against unauthorized access and ensure data integrity.
+# Tech Stack & Testing: The Voting App is developed using Node.js, Express.js for the backend, and MongoDB as the database, with Postman utilized for API testing and validation.
+# User Functionality: Registered users can cast a vote for a single candidate, ensuring a one-vote-per-user policy to maintain election integrity.
+# Admin Features: The admin has full CRUD (Create, Read, Update, Delete) capabilities to manage candidates, allowing them to add new candidates, update details, and remove candidates as needed.
+# Data Structure & Security: The application is built with industry-standard coding practices, ensuring optimized performance and maintainability. Security measures such as user authentication(Bcrypt) and data validation(JWT) are implemented to protect against unauthorized access and ensure data integrity.
